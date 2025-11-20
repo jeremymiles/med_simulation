@@ -1,0 +1,5 @@
+{
+  "name": "R2med Simulation Replicator",
+  "description": "A React application to replicate the simulation study on R2med as an indirect effect size measure, featuring bootstrap analysis and interactive scenario configuration.",
+  "requestFramePermissions": []
+}
